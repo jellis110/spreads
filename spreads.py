@@ -214,6 +214,7 @@ def teamcover(team):
     print (" The '%s' went '%s' - '%s' ATS with '%s' pushes." % (team, cover, no_cover,push))
 
 def main():
+    print("Hello\n")
     print("1. Home Dog Bet")
     print("2. Teams that covered each game")
     print("3. How many times a team covered")
